@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/btn_newnote"
+        android:title="New Note"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/btn_logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        app:showAsAction="always">
+    </item>
+
+</menu>
